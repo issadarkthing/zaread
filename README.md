@@ -1,4 +1,4 @@
-# zaread
+# zaread (fork)
 A (very) lightweight MS Office files reader
 
 This simple bash script needs libreoffice installed and has zathura pdf reader as optional dependence
@@ -12,3 +12,8 @@ So... I created this trivial script that can be used as default PDF/DOC/DOCX/ODF
 Note: If you don't have zathura installed and you want to adopt another PDF reader (which I don't recommend, nothing IMO fits this script better than zathura), please the first time you use the script execute it from terminal, so that you can select your favourite one; otherwise you can just open the script with a text editor and set it as $reader.
 
 Feel free to use and edit :)
+
+# update
+- accepts multiple file
+- code clean up
+- use zathura --fork
