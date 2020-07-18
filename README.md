@@ -16,4 +16,4 @@ Feel free to use and edit :)
 # update
 - accepts multiple file
 - code clean up
-- use zathura --fork
+- uses zathura --fork
