@@ -13,7 +13,7 @@ Note: If you don't have zathura installed and you want to adopt another PDF read
 
 Feel free to use and edit :)
 
-# update
+# changes
 - accepts multiple file
 - code clean up
 - uses zathura --fork
